@@ -10,14 +10,14 @@
 
 > LESS system take up means GOOD game server performance !
 
-   ![pic1.png](res\pic1.png)
+   ![pic1.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic1.png?raw=true)
 
 2. Write down the **Public IP**  which we will use later.
 
 3. Download Minecraft Server jar file (server.jar) from [Minecraft official website](https://www.minecraft.net/en-us/download/server/) , write down the command provided.
    *Server edition should match your game edition*
    
-   ![pic2.png](res\pic2.png)
+   ![pic2.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic2.png?raw=true)
 
 4. Start the server you have purchased, use any methods you can to connect to the server.
 
@@ -25,15 +25,15 @@
 
    (1)Press WIN button and R button to get this window
 
-   ![pic3.png](res\pic3.png)
+   ![pic3.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic3.png?raw=true)
 
    (2)Do the following steps
 
-   ![pic4.png](res\pic4.png)
+   ![pic4.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic4.png?raw=true)
 
-   ![pic5.png](res\pic5.png)
+   ![pic5.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic5.png?raw=true)
 
-   ![pic6.png](res\pic6.png)
+   ![pic6.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic6.png?raw=true)
 
 5. After you connect to the server, in server download jre (dowload jre varys from different Operating System according to your Server) and install to your computer.
    
@@ -47,9 +47,9 @@
 
 8. The first time you run the command, it will meet an error and stop. Open the "MC" folder and you can see several files has been generated. Find a file "eula.txt", open it and reset the eula value to true. Re-execute the command, it will run correct and the server can be found in game.
    
-   ![pic7.png](res\pic7.png)
+   ![pic7.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic7.png?raw=true)
    
-   ![pic8.png](res\pic8.png)
+   ![pic8.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic8.png?raw=true)
 
 > Everytime you want to start the server, you will need to execute the command. (The server need not close everytime you exit the game, it can keep running)
 
@@ -61,11 +61,11 @@
 
 2. Download forge from [Forge Official website](https://files.minecraftforge.net/) , put "minecraft_server.1.16.4.jar"(initial named "server.jar") and forge installer file together in it.
 
-![pic9.png](res\pic9.png)
+   ![pic9.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic9.png?raw=true)
 
 2. Execute the jar file to install forge
 
-![pic10.png](res\pic10.png)
+   ![pic10.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic10.png?raw=true)
 
 3. Wait for the download(need network), it automatically prepares things you need.
 
@@ -85,12 +85,12 @@
 
 4. Open Minecraft Launcher and you will see the forge version exist.
 
-![pic11.png](res\pic11.png)
+   ![pic11.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic11.png?raw=true)
 
 5. (**Option**)To avoid native minecraft conflict with your modded one, you can specify another folder to hold the forge version game. this folder should have name ".minecraft"
    
-   ![pic12.png](res\pic12.png)
-   6. Find your game directory, you will see a folder named "mods". Here you can put .jar mod files to add mods to your game.
+   ![pic12.png](https://github.com/Zhouyuankun/Minecraft-Server-Build/blob/main/res/pic12.png?raw=true)
+6. Find your game directory, you will see a folder named "mods". Here you can put .jar mod files to add mods to your game.
 
 
 
